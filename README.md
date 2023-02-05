@@ -2,12 +2,16 @@
 
 **Question1.** 
  1.Read the image.
+ 
  2.Divide the image in equal part with respect to width by using slicing in equal part( Shape of image is (386, 700, 3) ). So now the shape becomes ((386, 350, 3) and (386, 350, 3)).
+ 
  3.Take the X-OR of both images and then plot it.
+ 
  4.Take the Difference of both images and then plot it.
 
 **Question2:**
  1.Read the image.
+ 
  2.Extract the text from the images and store inside the “result” variable.
  3.Format of the output of the easy-ocr is:                                                                      [([[51, 5], [107, 5], [107, 19], [51, 19]], 'Tniikistal', 0.16009526434695096)]
  4.Calculate the midpoint of state by traversing the list.
